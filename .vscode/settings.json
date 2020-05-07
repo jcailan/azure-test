@@ -1,0 +1,8 @@
+{
+	"appService.zipIgnorePattern": [
+		"node_modules{,/**}",
+		".vscode{,/**}"
+	],
+	"appService.defaultWebAppToDeploy": "/subscriptions/33c3ae12-812d-4f64-9dc0-c9195f74a0fc/resourceGroups/bot-connector-test-integration/providers/Microsoft.Web/sites/bot-flow",
+	"appService.deploySubpath": ""
+}
